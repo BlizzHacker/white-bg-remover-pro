@@ -6,16 +6,12 @@ __pycache__/
 *.pyo
 *.spec
 *.log
-
-# Local app settings / output
 output_png/
 qa_previews/
 review_needed/
 failed/
 logs/
 test_workspace/
-
-# OS/editor junk
 .DS_Store
 Thumbs.db
 .vscode/
