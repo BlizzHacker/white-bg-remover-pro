@@ -1,0 +1,22 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+*.log
+
+# Local app settings / output
+output_png/
+qa_previews/
+review_needed/
+failed/
+logs/
+test_workspace/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
