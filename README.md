@@ -1,5 +1,8 @@
 # White BG Remover Pro
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), a
+501(c)(3).
+
 Windows desktop batch background remover for white/gray character assets.
 
 ## Features
