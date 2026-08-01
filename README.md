@@ -1,8 +1,5 @@
 # White BG Remover Pro
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
-Oklahoma non-profit corporation with 501(c)(3) status pending.
-
 A Windows batch tool that cuts white and gray backgrounds off character art,
 leaving clean transparent PNGs — hundreds of files at a time, with QA previews
 so you can trust a batch without eyeballing every image.
